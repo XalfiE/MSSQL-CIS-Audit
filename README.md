@@ -1,4 +1,1 @@
-# MSSQL-audit-scripts
-
-Scripts that can be used when auditing a MSSQL Server.
-This script has currently been tested on MSSQL 2012 and MSSQL 2016.
+Audits the MSSQL Server against the CIS-benchmark, and looks at all users, roles and their rights.
